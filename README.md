@@ -1,5 +1,7 @@
 # Local elections: Where will turnout be a challenge?
 
+![](https://raw.githubusercontent.com/BBC-Data-Unit/local_election_turnout/master/voter%20apathy.png)
+
 We reported that "fewer than one in five eligible voters in some parts of England previously chose anyone to represent them in local elections, raising fears of a democratic deficit."
 
 * [Read the story here](http://www.bbc.co.uk/news/uk-england-35999707), including a **Find your election** tool.
